@@ -35,8 +35,8 @@ msgid "Prepare for shipping to end user"
 msgstr "Prepare for shipping to end user"
 
 #: ../desktop/com.ubuntu.ubiquity.policy.in.h:1
-msgid "Install Ubuntu on your machine"
-msgstr "Install Ubuntu on your machine"
+msgid "Install Project OS on your machine"
+msgstr "Install Project OS on your machine"
 
 #: ../desktop/com.ubuntu.ubiquity.policy.in.h:2
 msgid "Authentication is required to install your machine"

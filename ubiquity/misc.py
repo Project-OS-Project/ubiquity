@@ -539,7 +539,7 @@ def get_release():
             syslog.syslog(syslog.LOG_ERR, 'Unable to determine the release.')
 
         if not get_release.release_info:
-            get_release.release_info = ReleaseInfo(name='Ubuntu', version='')
+            get_release.release_info = ReleaseInfo(name='Project OS', version='')
     return get_release.release_info
 
 
